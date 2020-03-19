@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 62.5%;
+  background-image: url("https://images.unsplash.com/photo-1505506874110-6a7a69069a08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80");
+  background-repeat: repeat-x;
 }
 a {
   text-decoration: none;
@@ -15,6 +17,11 @@ p {
   font-size: 1.5rem;
   line-height: 1.6;
   margin-top: 5px;
+  color: #dcdcdc;
+}
+
+h1 {
+  color: aliceblue;
 }
 
 code {

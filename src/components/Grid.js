@@ -32,6 +32,7 @@ const CardHeader1 = styled.h4`
   background: Black;
   color: white;
   padding: 10px;
+  margin-bottom: 20px;
 `;
 
 function Grid(props) {

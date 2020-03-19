@@ -14,6 +14,7 @@ const NasaButton = styled.button`
   background: ${props => (props.primary ? "#fff" : "black")};
   color: ${props => (props.primary ? "black" : "#fff")};
   &:hover {
+    text-decoration: none;
     background: ${props => (props.primary ? "black" : "#fff")};
     color: ${props => (props.primary ? "#fff" : "black")};
   }
